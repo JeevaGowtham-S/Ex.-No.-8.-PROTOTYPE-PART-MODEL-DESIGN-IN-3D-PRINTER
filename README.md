@@ -1,38 +1,3 @@
-Skip to content
-Prajeeth17
-/
-Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER
-
-Type / to search
-
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-BreadcrumbsEx.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER
-/README.md
-Go to file
-t
-Latest commit
-Prajeeth17
-Prajeeth17
-Update README.md
-56a449d
- · 
-3 weeks ago
-History
-BreadcrumbsEx.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER
-/README.md
-File metadata and controls
-
-Preview
-
-Code
-
-Blame
-55 lines (36 loc) · 2.93 KB
 # Ex. No. 8 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
 ### DATE: 3.10.2023
@@ -88,4 +53,3 @@ Blame
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
-Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/README.md at main · Prajeeth17/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER
