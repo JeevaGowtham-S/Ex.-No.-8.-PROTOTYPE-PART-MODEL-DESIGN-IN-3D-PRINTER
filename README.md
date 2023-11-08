@@ -1,6 +1,41 @@
+Skip to content
+Prajeeth17
+/
+Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER
+
+Type / to search
+
+Code
+Pull requests
+Actions
+Projects
+Security
+Insights
+BreadcrumbsEx.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER
+/README.md
+Go to file
+t
+Latest commit
+Prajeeth17
+Prajeeth17
+Update README.md
+56a449d
+ · 
+3 weeks ago
+History
+BreadcrumbsEx.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER
+/README.md
+File metadata and controls
+
+Preview
+
+Code
+
+Blame
+55 lines (36 loc) · 2.93 KB
 # Ex. No. 8 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
+### DATE: 3.10.2023
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -46,9 +81,11 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![image](https://github.com/d-kavinraja/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119875375/33b86bce-a7a4-49e5-94a2-194259de196e)
 
-### Name:
-### Register Number:
+### Name: JEEVAGOWTHAM S
+### Register Number: 212222230053
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
+Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/README.md at main · Prajeeth17/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER
